@@ -1,0 +1,25 @@
+h1{
+    background-color: #afafbf;
+}
+h2{
+    background-color: rgb(170, 170, 205);
+}
+h3{
+    background-color: rgb(80, 75, 91);
+}
+h4{
+    background-color: rgb(70, 50, 40);
+}
+h5{
+    background-color: hsl(210, 63%, 50%);
+}
+h6{
+    background-color: hsl(210, 63%, 50%, 0.5)
+}
+body{
+    background-size: 300px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url(Pearl.jpg);
+}
